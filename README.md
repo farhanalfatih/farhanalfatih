@@ -8,6 +8,6 @@ Saya adalah pengembang yang bersemangat yang senang membangun aplikasi web front
 - **Tools & Platform**: Git, GitHub, vscode,
 
 # My Projects 📂
-1. **[Project A](https://farhan-site-v1.vercel.app/): website portfolio.
+1. **https://farhanalfatih.vercel.app/: website portfolio.
 2.   semua projek saya dukumentasi di protofolio saya 
 
