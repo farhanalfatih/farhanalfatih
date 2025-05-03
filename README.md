@@ -25,5 +25,9 @@ Tech Stack:
 [![Tech Stack](https://skillicons.dev/icons?i=css,react,js,typescript,tailwind&perline=5)](https://skillicons.dev)
 
 ### Contact Me
-![https://www.tiktok.com/@allnaaaaaaa](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)  ![https://www.instagram.com/aalnaaaaaa/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![https://www.linkedin.com/in/farhan-alfatih/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
- ![https://www.linkedin.com/in/farhan-alfatih/](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)  ![https://github.com/farhanalfatih](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<!-- ![https://www.tiktok.com/@allnaaaaaaa](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)  ![https://www.instagram.com/aalnaaaaaa/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![https://www.linkedin.com/in/farhan-alfatih/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+ ![https://www.linkedin.com/in/farhan-alfatih/](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)  ![https://github.com/farhanalfatih](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) -->
+
+ ### Contact Me
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@allnaaaaaaa)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aalnaaaaaa/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-alfatih/)  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.linkedin.com/in/farhan-alfatih/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhanalfatih)
