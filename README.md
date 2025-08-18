@@ -12,7 +12,7 @@ I believe that with an open mindset and continuous growth, I can make a meaningf
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php,react,nodejs,nextjs,py,tailwind,bootstrap,figma,vscode,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php,react,nodejs,nextjs,py,tailwind,bootstrap,figma,vscode,git,laravel&perline=5)](https://skillicons.dev)
 
 ###  Projects
 
